@@ -1,4 +1,4 @@
-"""# 🎙️ Grammar Scoring Engine
+# 🎙️ Grammar Scoring Engine
 
 An end-to-end **Audio-to-Grammar Scoring Machine Learning pipeline** that predicts a continuous grammar/proficiency score from spoken English audio.
 
